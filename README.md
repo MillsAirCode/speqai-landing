@@ -61,3 +61,8 @@ speqai-landing/
 ---
 
 Built with 💜 by Natalie
+
+## Author
+
+Brad Mills ([@MillsAirCode](https://github.com/MillsAirCode))
+
